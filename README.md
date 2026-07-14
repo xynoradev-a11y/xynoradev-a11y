@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Xynora 👋
 
-<!--
-**xynoradev-a11y/xynoradev-a11y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Building AI-powered digital products to help people
 
-Here are some ideas to get you started:
+I'm an Egyptian creative on a mission to build technology that solves real problems. Right now, I'm growing through freelance **Arabic ⇄ English translation** — using every project to sharpen my skills and build toward something bigger.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm working on
+- Arabic ⇄ English translation projects
+- Learning automation (n8n) and AI tools
+- Exploring what to build next
+- Building toward launching my own digital products
+
+### 🌱 My approach
+Consistency over intensity. Every small project is a step toward becoming a founder who builds things that genuinely help people.
+
+### 📫 Let's connect
+Open to freelance translation opportunities.
